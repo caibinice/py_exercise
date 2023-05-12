@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib.pyplot as plt
 
 # data = np.random.rand(4, 3)
 # weights = np.random.rand(3, 2)
@@ -32,10 +33,6 @@ def sigmoid(x):
 # else:
 #     level = "及格"
 # print(level)
-
-
-import numpy as np
-import matplotlib.pyplot as plt
 
 
 def draw_scatter(x, y):
